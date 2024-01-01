@@ -1,0 +1,227 @@
+[
+  {
+    "id": "p1",
+    "title": "Air Terjun Tumpak Sewu",
+    "description": "Air Terjun Tumpak Sewu. Pemandangan air terjun yang indah. Pemandangan alam yang indah.",
+    "location": "Jawa Timur, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "tumpak-sewu-waterfall.jpg",
+      "alt": "Pemandangan air terjun Tumpak Sewu di tengah hijaunya alam."
+    },
+    "lat": -8.1381,
+    "lon": 112.926
+  },
+  {
+    "id": "p2",
+    "title": "Gunung Bromo",
+    "description": "Gunung Bromo. Gunung yang terletak di Provinsi Nusa Tenggara Timur. Gunung yang terkenal di Indonesia.",
+    "location": "Jawa Timur, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "bromo-mountains.jpg",
+      "alt": "Pemandangan pasir emas yang membentang hingga ke horizon di Gurun Bromo."
+    },
+    "lat": -7.9425,
+    "lon": 112.9533
+  },
+  {
+    "id": "p3",
+    "title": "Gunung Rinjani",
+    "description": "Gunung Rinjani. Gunung yang terletak di Kepulauan Riau. Gunung yang terkenal di Indonesia.",
+    "location": "Nusa Tenggara Barat, Indonesia",
+    "category": "Nature",
+
+    "image": {
+      "src": "rinjani-mountains.jpg",
+      "alt": "Matahari terbenam di balik puncak-puncak bersalju Gunung Rinjani."
+    },
+    "lat": -8.4095,
+    "lon": 116.4194
+  },
+  {
+    "id": "p4",
+    "title": "Pantai Pink Komodo",
+    "description": "Pantai Pink Komodo. Pantai yang terletak di Komodo. Pantai yang terkenal di Indonesia.",
+    "location": "Nusa Tenggara Timur, Indonesia",
+    "category": "Nature",
+
+    "image": {
+      "src": "pink-beach-komodo.jpg",
+      "alt": "Pasir putih dan air laut berwarna turquoise di Pantai Pink Komodo."
+    },
+    "lat": -8.6389,
+    "lon": 119.4842
+  },
+  {
+    "id": "p5",
+    "title": "Candi Borobudur",
+    "description": "Candi Borobudur. Candi yang terletak di Borobudur. Candi yang terkenal di Indonesia.",
+    "location": "Jawa Tengah, Indonesia",
+    "category": "Religion",
+    "image": {
+      "src": "borobudur-temple.jpg",
+      "alt": "Candi Borobudur yang megah berdiri tinggi di bawah langit Grecian."
+    },
+    "lat": -7.6079,
+    "lon": 110.2036
+  },
+  {
+    "id": "p6",
+    "title": "Pulau Karimunjawa",
+    "description": "Karimunjawa. Pulau yang terletak di Indonesia. Pulau yang terkenal di Indonesia.",
+    "location": "Jawa Tengah, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "karimunjawa-islands.jpg",
+      "alt": "Pesona pulau-pulau Karimunjawa yang indah di Indonesia."
+    },
+    "lat": -5.8497,
+    "lon": 110.4418
+  },
+  {
+    "id": "p7",
+    "title": "Bedugul",
+    "description": "Bedugul. Candi yang terletak di Bali. Candi yang terkenal di Indonesia.",
+    "location": "Bali, Indonesia",
+    "category": ["Religion", "Nature"],
+    "image": {
+      "src": "bedugul-bali.jpg",
+      "alt": "Pesona Bedugul, Bali dengan danau dan area sekitarnya yang indah."
+    },
+    "lat": -8.2744,
+    "lon": 115.1615
+  },
+
+  {
+    "id": "p8",
+    "title": "Candi Prambanan",
+    "description": "Candi Prambanan. Candi yang terletak di Prambanan. Candi yang terkenal di Indonesia.",
+    "location": "Jawa Tengah, Indonesia",
+    "category": "Religion",
+    "image": {
+      "src": "prambanan-temple.jpg",
+      "alt": "Candi Prambanan kuno dikelilingi oleh daun-daun musim gugur."
+    },
+    "lat": -7.7529,
+    "lon": 110.4913
+  },
+  {
+    "id": "p9",
+    "title": "Ranu Kumbolo Semeru",
+    "description": "Ranu Kumbolo Semeru. Gunung yang terletak di Semeru. Gunung yang terkenal di Indonesia.",
+    "location": "Jawa Timur, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "ranu-kumbolo-semeru.jpg",
+      "alt": "Stunning view of the emerald-green lake of Ranu Kumbolo, nestled at the foot of Mount Semeru."
+    },
+    "lat": -7.8362,
+    "lon": 112.7962
+  },
+  {
+    "id": "p10",
+    "title": "Jalan Malioboro",
+    "description": "Jalan Malioboro. Jalan yang terletak di Yogyakarta. Jalan yang terkenal di Indonesia.",
+    "location": "Daerah Istimewa Yogyakarta, Indonesia",
+    "category": "Cultural",
+    "image": {
+      "src": "malioboro-street.jpg",
+      "alt": "Jalan yang menawan di Yogyakarta dengan bangunan bersejarah dan kafe-kafe."
+    },
+    "lat": -7.7924,
+    "lon": 110.3677
+  },
+  {
+    "id": "p11",
+    "title": "Raja Ampat",
+    "description": "Raja Ampat. Pulau yang terletak di Indonesia. Pulau yang terkenal di Indonesia.",
+    "location": "Papua, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "raja-ampat-islands.jpg",
+      "alt": "Keindahan pulau-pulau Raja Ampat di Indonesia dengan laut yang jernih."
+    },
+    "lat": -0.7276,
+    "lon": 130.6509
+  },
+
+  {
+    "id": "p12",
+    "title": "Danau Toba",
+    "description": "Danau Toba. Danau yang terletak di Indonesia. Danau yang terkenal di Indonesia.",
+    "location": "Sumatra Utara, Indonesia",
+    "category": ["Legends", "Nature"],
+    "image": {
+      "src": "toba-lake.jpg",
+      "alt": "Perairan berkilauan dari Danau Toba dengan pegunungan di latar belakang."
+    },
+    "lat": 2.8249,
+    "lon": 98.5083
+  },
+  {
+    "id": "p13",
+    "title": "Candi Ratu Boko",
+    "description": "Candi Ratu Boko. Candi yang terletak di Indonesia. Candi yang terkenal di Indonesia.",
+    "location": "Daerah Istimewa Yogyakarta, Indonesia",
+    "category": "Religion",
+    "image": {
+      "src": "ratu-boko-temple.jpg",
+      "alt": "Pemandangan ikonik Candi Ratu Boko yang tercermin di perairannya saat matahari terbit."
+    },
+    "lat": -7.7832,
+    "lon": 110.4276
+  },
+  {
+    "id": "p14",
+    "title": "Pantai Kuta",
+    "description": "Pantai Kuta. Pantai yang terletak di Indonesia. Pantai yang terkenal di Indonesia.",
+    "location": "Bali, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "kuta-beach.png",
+      "alt": "Ketenangan air dan hijau rimbun di Pantai Kuta, Bali."
+    },
+    "lat": -8.7237,
+    "lon": 115.1695
+  },
+  {
+    "id": "p15",
+    "title": "Taman Nasional Komodo",
+    "description": "Taman Nasional Komodo. Taman nasional yang terletak di Komodo. Taman nasional yang terkenal di Indonesia.",
+    "location": "Nusa Tenggara Timur, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "komodo-national-park.jpg",
+      "alt": "Keindahan Taman Nasional Komodo dengan hewan-hewan khasnya dan pemandangan alam yang menakjubkan."
+    },
+    "lat": -8.5761,
+    "lon": 119.4353
+  },
+  {
+    "id": "p16",
+    "title": "Masjid Istiqlal",
+    "description": "Masjid Istiqlal. Masjid yang terletak di Indonesia. Masjid yang terkenal di Indonesia.",
+    "location": "Jakarta, Indonesia",
+    "category": "Religion",
+    "image": {
+      "src": "istiqlal-mosque.jpg",
+      "alt": "Masjid Istiqlal, masjid terbesar di Indonesia."
+    },
+    "lat": -6.1751,
+    "lon": 106.827
+  },
+  {
+    "id": "p18",
+    "title": "Puncak Gunung Prau",
+    "description": "Puncak Gunung Prau. Gunung yang terletak di Indonesia. Gunung yang terkenal di Indonesia.",
+    "location": "Jawa tengah, Indonesia",
+    "category": "Nature",
+    "image": {
+      "src": "prau-summit.jpg",
+      "alt": "Pemandangan Puncak Gunung Prau dari Desa Sembungan."
+    },
+    "lat": -7.4635,
+    "lon": 110.0934
+  }
+]
