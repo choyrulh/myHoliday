@@ -14,7 +14,7 @@ function Places({
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className="mt-8" // Add Tailwind CSS classes for margin-top
+      className="mt-8 flex flex-col items-center px-3" // Add Tailwind CSS classes for margin-top and centered content
     >
       <h2 className="text-2xl font-bold mb-4">{title}</h2>
 
@@ -52,8 +52,11 @@ function Places({
               key={place.id}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className="w-fit h-fit overflow-hidden bg-black rounded-lg shadow-md"
+              className="w-fit h-fit overflow-hidden bg-black rounded-lg shadow-md cursor-pointer"
               onClick={() => onSelectPlace(place)}
+              initial={{ opacity: 0, y: 50 }} // animasi awal
+              animate={{ opacity: 1, y: 0 }} // animasi saat muncul
+              transition={{ duration: 0.5 }}
             >
               <motion.img
                 initial={{ opacity: 0 }}
@@ -63,7 +66,14 @@ function Places({
                 alt={place.image.alt}
                 className="w-full h-full object-cover"
               />
-              <h3 className="p-4 text-lg font-semibold">{place.title}</h3>
+              <motion.h3
+                initial={{ opacity: 0, y: 20 }} // animasi awal
+                animate={{ opacity: 1, y: 0 }} // animasi saat muncul
+                transition={{ duration: 0.5 }}
+                className="p-4 text-lg font-semibold"
+              >
+                {place.title}
+              </motion.h3>
             </motion.li>
           ))}
         </motion.ul>
