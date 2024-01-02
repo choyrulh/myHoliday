@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import PropTypes from "prop-types";
 import { fetchAvailablePlaces } from "../Service/api";
 import { sortPlacesByDistance } from "../Service/location";
@@ -49,6 +49,7 @@ function AvailablePlaces({ onSelectPlace }) {
       loadingText="Fetching place data..."
       fallbackText="Tempat Liburan Tidak Tersedia"
       onSelectPlace={onSelectPlace}
+      AvailablePlaces={true}
     />
   );
 }

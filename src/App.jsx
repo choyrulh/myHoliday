@@ -132,7 +132,7 @@ function App() {
           transition={{ duration: 0.5 }}
           className="mb-5 uppercase text-5xl "
         >
-          Wisata Liburan
+          Wishlist Holiday
         </motion.h1>
         {/* <p>{userPlaces.length} yang telah kamu pilih</p> */}
       </header>
